@@ -1,0 +1,5 @@
+ndvi:
+  stress_threshold: 0.3
+  healthy_threshold: 0.5
+orthomosaic:
+  method: PANORAMA
